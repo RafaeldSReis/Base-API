@@ -5,6 +5,6 @@ import * as ApiController from '../controllers/apiController';
 const router = Router();
 
 
-router.get();
+router.get('/');
 
 export default router;
